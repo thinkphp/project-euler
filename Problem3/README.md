@@ -1,1 +1,1 @@
-p
+project euler
